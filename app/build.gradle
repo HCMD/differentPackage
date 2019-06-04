@@ -28,6 +28,7 @@ android {
         }
     }
 
+    // 资源配置要先写好，sync后再去写资源or Java差异文件，
     sourceSets {
         channel_A {
             res.srcDirs 'channels/channelA/res'
