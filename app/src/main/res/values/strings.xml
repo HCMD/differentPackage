@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DifferentPackage</string>
+    <string name="showContent">THC</string>
+</resources>
